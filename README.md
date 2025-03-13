@@ -15,7 +15,7 @@ Contacts API Application
 
 **Libraries**
 <img align="right" src="https://img.shields.io/badge/Axios-671ddf?&style=flat&logo=axios&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/react%20table-FF4154?style=flat&logo=react%20table&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 
 **Build Tools**
