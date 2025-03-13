@@ -1,7 +1,7 @@
 # Application Overview: Contacts API Application
 Contacts API Application
 
-## Contacts API Application Frontend:
+## Contacts API Application Backend:
 [Contacts API Application Backend Repository](https://github.com/KhlebnikovEvgeniy/contactsapi)
 
 ## Key Features
