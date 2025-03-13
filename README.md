@@ -14,7 +14,7 @@ Contacts API Application
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
 **Libraries**
-<img align="right" src="https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Axios-671ddf?&style=flat&logo=axios&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 
 **Database**
@@ -26,9 +26,6 @@ Contacts API Application
 
 **Package Manager**
 <img align="right" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
-
-**Build Tools**
-<img align="right" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white" />
 
 **Version Control**
 <img align="right" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
